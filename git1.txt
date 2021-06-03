@@ -5,3 +5,11 @@ git init 初始化为仓库
 git add file  添加文件到仓库
 git commit -m "描述"  提交文件到仓库
 commit 可以一次提交多个文件，多个改动
+
+时光机版本回退命令
+git log  查看提交日志
+git reset --hard HEAD^命令进行版本回退，退到上一个版本
+git reset --hard HEAD^ id前几位  回退到指定版本
+git reflog 查看操作记录
+
+工作区和暂存区的概念
