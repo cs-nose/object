@@ -1,0 +1,6 @@
+### git 命令
+
+mkdir dir 创建文件夹作为仓库
+git init 初始化为仓库
+git add file  添加文件到仓库
+git commit -m "描述"  提交文件到仓库
