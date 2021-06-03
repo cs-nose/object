@@ -1,0 +1,11 @@
+{
+    newsItem: [{
+        news_id: 1, //新闻ID
+        news_img: "../img/news-1.webp", //新闻缩略图
+        news_title: '从线上到线下，互联网医疗将要走向何方?', //新闻标题
+        news_time: '2021-04-03 15:03', // 创建新闻时间
+        news_tip: '互联网医疗', //新闻标签
+        news_context: '<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015年12月份，首家互联网医院在乌镇亮相</p> ', //新闻概述
+        news_author: '东风传媒', //新闻评论条数
+    }]
+}
